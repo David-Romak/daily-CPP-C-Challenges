@@ -15,7 +15,8 @@ This repository documents my journey of solving the same programming problem in 
 
 ## 📊 Progress Dashboard
 
-| Date       | Problem                      | Difficulty | C   | C++ | Blog | Notes              |
-| ---------- | ---------------------------- | ---------- | --- | --- | ---- | ------------------ |
-| 2025-12-28 | Remove symbols from a string | EASY       | ✅  | ✅  | 📝   | String manuplation |
-| 2025-12-30 | Day finder from various date formats | MEDIUM | ✅ | ✅ | Handling dates
+| Date       | Problem                              | Difficulty | C   | C++ | Blog           | Notes              |
+| ---------- | ------------------------------------ | ---------- | --- | --- | -------------- | ------------------ |
+| 2025-12-28 | Remove symbols from a string         | EASY       | ✅  | ✅  | 📝             | String manuplation |
+| 2025-12-30 | Day finder from various date formats | MEDIUM     | ✅  | ✅  | Handling dates |
+| 2026-01-04 | Flowing Words                        | EASY       | ✅  | ✅  | 📝             | String processing  |
