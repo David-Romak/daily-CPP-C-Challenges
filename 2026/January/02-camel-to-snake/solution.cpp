@@ -52,7 +52,7 @@ string camel_to_snake_stream(const string& camel) {
     return ss.str();
 }
 
-int main()
+int main()  
 {
     cout << "---CamelCase to Snake_Case Converter - C++---\n";
     string snake = camel_to_snake_stream("camelCase");
